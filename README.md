@@ -3,7 +3,7 @@
 A pomodoro app to help you manage your better your time.
  
 <p align="center">
-    <img src="images/pomodoro-app.png" width="50%" height="50%"/>
+    <img src="images/pomodoro-app.png" width="50%" height="50%"/>Cancel changes
 </p>
 
 
@@ -27,3 +27,7 @@ and enjoy.
 <h3> Technologies used </h3>
 
 Python, tkinter
+
+<h3> Requirements </h3>
+
+Python 3 
