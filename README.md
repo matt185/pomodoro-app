@@ -3,7 +3,7 @@
 A pomodoro app to help you manage your better your time.
  
 <p align="center">
-    <img src="images/pomodoro-app.png" width="50%" height="50%"/>Cancel changes
+    <img src="images/pomodoro-app.png" width="50%" height="50%"/>
 </p>
 
 
